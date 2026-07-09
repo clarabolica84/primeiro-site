@@ -4,4 +4,4 @@ botao.addEventListener("click", aumentarCurtidas)
 function aumentarCurtidas(){
     let curtidas = document.querySelector("span")
     curtidas.textContent++
-}
+}  
